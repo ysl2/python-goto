@@ -12,11 +12,14 @@ Tested on Python 2.6 through 3.7 and PyPy.
 
 ```
 pip install goto-statement
+pip install dominate
 ```
 
 ## Usage
 
 ```python
+import goto
+from dominate.tags import label
 from goto import with_goto
 
 @with_goto
