@@ -10,7 +10,7 @@ Tested on Python 2.6 through 3.7 and PyPy.
 
 ## Installation
 
-```
+```bash
 pip install goto-statement
 pip install dominate
 ```
